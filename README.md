@@ -29,7 +29,7 @@ erDiagram
         INTEGER proper_stock "適正在庫数"
     }
     SHELVES ||--o{ ITEMS: "shelf_id"
-    ITEMS ||--o{ NVENTORI: "item_id"
+    ITEMS ||--o{ INVENTORIES: "item_id"
 ```
 
 ### items
