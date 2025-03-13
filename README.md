@@ -165,6 +165,9 @@ client/
    node index.js
    ```
 
+## 開発環境について
+
+ローカル環境はWindows11でのVS Code+WSL(Ubuntu)と途中からGithub Codespaceで作業しました。
 
 
 
